@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xml" href = "BenhNhan.xslt"?>
+<BVDK xmlns="http://tempuri.org/BenhNhan.xsd">
+	<Khoa>
+		<TenKhoa>Ngoại</TenKhoa>
+		<Phong>302</Phong>
+		<BenhNhan MasoBN="BN01">
+			<HoTen>Nguyễn Tuấn Anh</HoTen>
+			<GioiTinh>Nam</GioiTinh>
+			<NgayNhapVien>2017-01-01</NgayNhapVien>
+			<NgayDieuTri>2</NgayDieuTri>
+		</BenhNhan>
+	</Khoa>
+
+	<Khoa>
+		<TenKhoa>Nội</TenKhoa>
+		<Phong>666</Phong>
+		<BenhNhan MasoBN="BN02">
+			<HoTen>Đặng Văn Lâm</HoTen>
+			<GioiTinh>Nữ</GioiTinh>
+			<NgayNhapVien>2012-01-01</NgayNhapVien>
+			<NgayDieuTri>874</NgayDieuTri>
+		</BenhNhan>
+	</Khoa>
+</BVDK>
