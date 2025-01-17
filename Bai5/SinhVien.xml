@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="SinhVien.xslt"?>
+<dssv xmlns="http://tempuri.org/SinhVien.xsd">
+  <sinhvien>
+    <masv>SV01</masv>
+    <tensv>Phan Tuấn Cường</tensv>
+    <gioitinh>Nam</gioitinh>
+    <ngaysinh>1993-03-03</ngaysinh>
+    <malop>CNTT14</malop>
+  </sinhvien>
+  <sinhvien>
+    <masv>SV02</masv>
+    <tensv>Huỳnh Chí Tâm</tensv>
+    <gioitinh>Nam</gioitinh>
+    <ngaysinh>1993-03-08</ngaysinh>
+    <malop>CNTT14</malop>
+  </sinhvien>
+  <sinhvien>
+    <masv>SV05</masv>
+    <tensv>Trương Thị Yến Nhi</tensv>
+    <gioitinh>Nữ</gioitinh>
+    <ngaysinh>1993-10-03</ngaysinh>
+    <malop>TCKT14</malop>
+  </sinhvien>
+</dssv>

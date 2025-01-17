@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="BenhNhan.xslt"?>
+<bvdk xmlns="http://tempuri.org/BenhNhan.xsd">
+  <khoa>
+    <tenkhoa>Ngoại</tenkhoa>
+    <phong>302</phong>
+    <benhnhan masobn="BN01">
+      <hoten>Nguyễn Tuấn Anh</hoten>
+      <gioitinh>Nam</gioitinh>
+      <ngaynhapvien>2022-09-10</ngaynhapvien>
+      <ngaydieutri>2</ngaydieutri>
+    </benhnhan>
+    <benhnhan masobn="BN02">
+      <hoten>Tức Anh Ách</hoten>
+      <gioitinh>Nam</gioitinh>
+      <ngaynhapvien>2023-10-02</ngaynhapvien>
+      <ngaydieutri>3</ngaydieutri>
+    </benhnhan>    
+  </khoa>
+  <khoa>
+    <tenkhoa>Nội</tenkhoa>
+    <phong>203</phong>
+    <benhnhan masobn="BN03">
+      <hoten>Phạm Thị Hà</hoten>
+      <gioitinh>Nữ</gioitinh>
+      <ngaynhapvien>2023-09-12</ngaynhapvien>
+      <ngaydieutri>1</ngaydieutri>
+    </benhnhan>
+    <benhnhan masobn="BN04">
+      <hoten>Trần Văn Cường</hoten>
+      <gioitinh>Nam</gioitinh>
+      <ngaynhapvien>2022-07-03</ngaynhapvien>
+      <ngaydieutri>3</ngaydieutri>
+    </benhnhan>
+  </khoa>
+</bvdk>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BenhNhan"
+    targetNamespace="http://tempuri.org/BenhNhan.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/BenhNhan.xsd"
+    xmlns:mstns="http://tempuri.org/BenhNhan.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="GioiTinh">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="Nam|Nữ"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="Khoa">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="Nội|Ngoại|Cấp cứu"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="benhnhan">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="hoten" type="xs:string"></xs:element>
+				<xs:element name="gioitinh" type="GioiTinh"></xs:element>
+				<xs:element name="ngaynhapvien" type="xs:date"></xs:element>
+				<xs:element name="ngaydieutri" type="xs:positiveInteger"></xs:element>
+			</xs:sequence>
+			<xs:attribute name="masobn" type="xs:ID" use="required"></xs:attribute>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="khoa">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="tenkhoa" type="Khoa"></xs:element>
+				<xs:element name="phong" type="xs:string"></xs:element>
+				<xs:element ref="benhnhan" minOccurs="1" maxOccurs="unbounded"></xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="bvdk">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="khoa" minOccurs="1" maxOccurs="unbounded"></xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
