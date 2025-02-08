@@ -65,7 +65,7 @@ namespace OnTapTX2
         private void getNhanVienChoosen(object sender, DataGridViewCellEventArgs e)
         {
             var nv =(NhanVien) dataGridView1.CurrentRow.DataBoundItem;
-
+            tbMaNV.Text = nv.maNv;
             tbTen.Text = nv.ten;
             tbTuoi.Text = nv.tuoi +"";
             tbLuong.Text = nv.luong +""; 

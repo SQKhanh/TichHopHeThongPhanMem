@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "E:\\STUDY\\TichHopHeThongPhanMem\\OnTapTX2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\STUDY\\TichHopHeThongPhanMem\\OnTapTX2\\bin\\Debug\\congty.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\congty.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{7C4B41DC-A47F-46E3-86CE-66A53588C498}|OnTapTX2.csproj|E:\\STUDY\\TichHopHeThongPhanMem\\OnTapTX2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4B41DC-A47F-46E3-86CE-66A53588C498}|OnTapTX2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4B41DC-A47F-46E3-86CE-66A53588C498}|OnTapTX2.csproj|E:\\STUDY\\TichHopHeThongPhanMem\\OnTapTX2\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4B41DC-A47F-46E3-86CE-66A53588C498}|OnTapTX2.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C4B41DC-A47F-46E3-86CE-66A53588C498}|OnTapTX2.csproj|e:\\study\\tichhophethongphanmem\\ontaptx2\\datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C4B41DC-A47F-46E3-86CE-66A53588C498}|OnTapTX2.csproj|solutionrelative:datautil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C4B41DC-A47F-46E3-86CE-66A53588C498}|OnTapTX2.csproj|e:\\study\\tichhophethongphanmem\\ontaptx2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C4B41DC-A47F-46E3-86CE-66A53588C498}|OnTapTX2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4B41DC-A47F-46E3-86CE-66A53588C498}|OnTapTX2.csproj|e:\\study\\tichhophethongphanmem\\ontaptx2\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C4B41DC-A47F-46E3-86CE-66A53588C498}|OnTapTX2.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C4B41DC-A47F-46E3-86CE-66A53588C498}|OnTapTX2.csproj|e:\\study\\tichhophethongphanmem\\ontaptx2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7C4B41DC-A47F-46E3-86CE-66A53588C498}|OnTapTX2.csproj|E:\\STUDY\\TichHopHeThongPhanMem\\OnTapTX2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7C4B41DC-A47F-46E3-86CE-66A53588C498}|OnTapTX2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\STUDY\\TichHopHeThongPhanMem\\OnTapTX2\\bin\\Debug\\congty.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\congty.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,13 +34,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "congty.xml",
               "DocumentMoniker": "E:\\STUDY\\TichHopHeThongPhanMem\\OnTapTX2\\bin\\Debug\\congty.xml",
               "RelativeDocumentMoniker": "bin\\Debug\\congty.xml",
               "ToolTip": "E:\\STUDY\\TichHopHeThongPhanMem\\OnTapTX2\\bin\\Debug\\congty.xml",
               "RelativeToolTip": "bin\\Debug\\congty.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2025-02-08T01:32:11.681Z",
               "EditorCaption": ""
@@ -49,17 +49,17 @@
         },
         {
           "DockedWidth": 286,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\STUDY\\TichHopHeThongPhanMem\\OnTapTX2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "E:\\STUDY\\TichHopHeThongPhanMem\\OnTapTX2\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T01:16:29.911Z",
               "IsPinned": true,
@@ -67,20 +67,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "NhanVien.cs",
               "DocumentMoniker": "E:\\STUDY\\TichHopHeThongPhanMem\\OnTapTX2\\NhanVien.cs",
               "RelativeDocumentMoniker": "NhanVien.cs",
               "ToolTip": "E:\\STUDY\\TichHopHeThongPhanMem\\OnTapTX2\\NhanVien.cs",
               "RelativeToolTip": "NhanVien.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T01:41:23.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\STUDY\\TichHopHeThongPhanMem\\OnTapTX2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -92,13 +92,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DataUtil.cs",
               "DocumentMoniker": "E:\\STUDY\\TichHopHeThongPhanMem\\OnTapTX2\\DataUtil.cs",
               "RelativeDocumentMoniker": "DataUtil.cs",
               "ToolTip": "E:\\STUDY\\TichHopHeThongPhanMem\\OnTapTX2\\DataUtil.cs",
               "RelativeToolTip": "DataUtil.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAWwCoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T01:02:10.734Z",
               "EditorCaption": ""
