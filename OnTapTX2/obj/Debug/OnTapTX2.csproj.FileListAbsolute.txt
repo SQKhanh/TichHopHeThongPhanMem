@@ -1,0 +1,10 @@
+E:\STUDY\TichHopHeThongPhanMem\OnTapTX2\bin\Debug\OnTapTX2.exe.config
+E:\STUDY\TichHopHeThongPhanMem\OnTapTX2\bin\Debug\OnTapTX2.exe
+E:\STUDY\TichHopHeThongPhanMem\OnTapTX2\bin\Debug\OnTapTX2.pdb
+E:\STUDY\TichHopHeThongPhanMem\OnTapTX2\obj\Debug\OnTapTX2.csproj.AssemblyReference.cache
+E:\STUDY\TichHopHeThongPhanMem\OnTapTX2\obj\Debug\OnTapTX2.Form1.resources
+E:\STUDY\TichHopHeThongPhanMem\OnTapTX2\obj\Debug\OnTapTX2.Properties.Resources.resources
+E:\STUDY\TichHopHeThongPhanMem\OnTapTX2\obj\Debug\OnTapTX2.csproj.GenerateResource.cache
+E:\STUDY\TichHopHeThongPhanMem\OnTapTX2\obj\Debug\OnTapTX2.csproj.CoreCompileInputs.cache
+E:\STUDY\TichHopHeThongPhanMem\OnTapTX2\obj\Debug\OnTapTX2.exe
+E:\STUDY\TichHopHeThongPhanMem\OnTapTX2\obj\Debug\OnTapTX2.pdb
